@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Israel-Asidere
 - 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Back End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me israelasidere@yahoo.com
 

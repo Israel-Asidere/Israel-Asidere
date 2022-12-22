@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Israel-Asidere
-- 👀 I’m interested in Back End Development
-- 🌱 I’m currently learning Data Science and Back End Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI/UX and Front-end Development
+- 🌱 I’m currently learning Front-end development
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me israelasidere@yahoo.com
 
 <!---
